@@ -1,7 +1,7 @@
 {
   "name": "bex-web-ui",
   "private": false,
-  "version": "2.0.4",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/IgnacioNMiranda/vite-component-library-template"

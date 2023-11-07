@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.0 (2023-11-07)
+
+
+### Features
+
+* **repo:** setting up repo added dist updated * TEST2 ([5cc4790](https://github.com/prithvi-bex/component-test2/commit/5cc479031c58194e46987a1b8029e4f5529dea13))
+* **repo:** setting up repo added dist updated * TEST3 ([306f5b1](https://github.com/prithvi-bex/component-test2/commit/306f5b18f568bdf3bd56c528125802a61903d7a1))
+
 ## [2.0.4](https://github.com/IgnacioNMiranda/vite-component-library-template/compare/v2.0.3...v2.0.4) (2023-09-10)
 
 
